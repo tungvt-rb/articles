@@ -105,5 +105,23 @@
 
 		</div>
 	</div><!-- .wrapper -->
+
+	<div class="wrapper">
+		<div class="masonry-layout">
+			<div class="masonry-panel">
+				<h1>Pure CSS masonry layout</h1>
+			</div>
+			<div class="masonry-panel">
+				<img src="https://unsplash.it/445/?random" />
+			</div>
+			<div class="masonry-panel">
+				<img src="https://unsplash.it/423/?random" />
+			</div>
+			<div class="masonry-panel">
+					<h2>Title for some content</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu justo ex. Praesent mollis augue sagittis eros pharetra feugiat. Phasellus dignissim est lacus. Sed nec imperdiet dolor, sit amet mattis ex. Sed sed augue eu neque tristique commodo. Mauris aliquet tortor sollicitudin nibh molestie, id egestas nisl sollicitudin. Aliquam erat volutpat. Donec quis ultrices ligula. Cras sed purus risus. Curabitur quis eros eu tortor semper eleifend.</p>
+			</div>
+		</div>
+	</div>
 </body>
 </html>
